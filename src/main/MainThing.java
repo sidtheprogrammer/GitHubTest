@@ -6,5 +6,6 @@ public class MainThing {
         System.out.println("Hello World");
         WorkItOut.addTwoNumbers(3, 6);
         WorkItOut.multiplyTwoNumbers(3, 6);
+        Alogrithms.largestMultipleOfTwo(56);
     }
 }
