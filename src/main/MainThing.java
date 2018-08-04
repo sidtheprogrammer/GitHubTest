@@ -7,5 +7,6 @@ public class MainThing {
         WorkItOut.addTwoNumbers(3, 6);
         WorkItOut.multiplyTwoNumbers(3, 6);
         Alogrithms.largestMultipleOfTwo(56);
+        WorkItOut.areaOfACircle(45);
     }
 }

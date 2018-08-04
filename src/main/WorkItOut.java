@@ -16,4 +16,8 @@ public class WorkItOut {
     public static double multiplyTwoNumbers(int firstNumber, int secondNumber){
         return  firstNumber * secondNumber;
     }
+
+    public static double areaOfACircle(int radius){
+        return Math.PI*radius*radius;
+    }
 }
