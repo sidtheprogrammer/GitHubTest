@@ -12,4 +12,8 @@ public class WorkItOut {
     public static int addTwoNumbers(int firstNumber, int secondNumber){
         return firstNumber + secondNumber;
     }
+
+    public static double multiplyTwoNumbers(int firstNumber, int secondNumber){
+        return  firstNumber * secondNumber;
+    }
 }
